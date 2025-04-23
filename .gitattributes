@@ -1,0 +1,6 @@
+/build/* linguist-vendored
+/static/* linguist-vendored
+*.html linguist-vendored
+*.json linguist-vendored
+*.css linguist-vendored
+*.svg linguist-vendored
